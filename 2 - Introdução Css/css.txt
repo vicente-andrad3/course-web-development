@@ -1,0 +1,30 @@
+CSS
+
+- Inline: <p style=""> - descontinuado
+- Interno: <style></style> - descontinuado
+- Externo: vinculo de arquivo .css para dentro do HTML
+
+Atributos de nomeação
+    .class
+    #id
+
+Fonts CSS
+
+font-family
+font-size
+font-style
+font-variant
+
+Text CSS
+
+text-align
+text-ident
+text-decoration
+text-transform
+
+Color & Background-Color
+
+COR LUZ (RGB) - Código hexadecimal
+R - Red
+G - Green
+B - Blue
